@@ -1,0 +1,7 @@
+
+At the beginning of the game each participant places his submarines on the board
+
+The Direction of the board is opposite to the Direction of reading a binary variable, this means that if a Row on the board is 00100, if we want to make a change in a certain bit, the position is the length of the board minus the  position. For example, we would like to turn on the bit position 1(01100), we will make a change to (5-1) bit  
+
+
+During the game, each player in his turn guess the location of submarine, if he hits - a message is printed and he has  another turn. If not - a message is printed as well. The game ends when there are no submarines on the board (the sum of the entire board equals 0).
